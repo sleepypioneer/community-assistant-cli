@@ -21,3 +21,5 @@
 go.work
 
 cli
+community-assist
+*.txt
