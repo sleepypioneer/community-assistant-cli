@@ -28,6 +28,7 @@ go build -o community-assist
 Allows you to create a tweet formulated text from an input text file and save it out to a file.
 
 ```bash
+export OPENAI_API_KEY = <your-openai-api-key>
 ./community-assist tweet --input <input-file> --output <output-file>
 ```
 
